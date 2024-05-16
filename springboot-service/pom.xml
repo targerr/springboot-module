@@ -13,7 +13,7 @@
 
     <!--自定义环境变量-->
     <properties>
-        <hutool.version>4.6.1</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <dependencies>
